@@ -1,26 +1,27 @@
-Project Name: Journey Guider (Project based on travelling popular destinations and staying in hotels)
+# Journey Guider
+A project on hotel booking system for various destinations.
 
-Programming Language: HTML, CSS, PHP 7.0
+### Programming Language
+HTML, CSS, PHP 7.0
 
-IDE : JetBrains PhpStorm 
+### Note 
+1) Need PHP 7.0 for Login page's works.
+2) Database file is in Journey Guider\Database  
 
-Important: 1) Need PHP 7.0 for Login page's works.
-           2) Database file is in Journey Guider\Database  
-
-Instructions:
-1) Home: 
+### Instructions
+- Home: 
     
      #1: The project can be started by running "Home.php"
 
      #2: From there by scrolling down you can select a country to see it's popular destinations (For now Malaysia,Australia and Singapore countries's popular destinations has been inserted in database. Select any three of these).
 
-2) Hotels:
+- Hotels:
     
     #1: To see renowned hotels of different countries click on "HOTELS" from webpage(Or run Hotels.php file from folder).
 
     #2: From there, on the form, select country (Singapore, Paris, Bangladesh) and click on show button to show the hotels  of those countries.
 
-3) Login:
+- Login:
    
    #1: For user login goto "Log In" page from webpage(Or run Login.php file from folder).
    
