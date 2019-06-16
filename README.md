@@ -1,7 +1,7 @@
 # Journey Guider
 A project on hotel booking system for various destinations.
 
-### Programming Language
+### Programming Frameworks
 HTML, CSS, PHP 7.0
 
 ### Note 
